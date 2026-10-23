@@ -1,42 +1,73 @@
-# PortfolioStore99
+# PortfolioStore 99
 
-![Logo](https://raw.githubusercontent.com/ayushcmdx/PortfolioStore99/main/public/portfoliostore-logo.svg){: style="height:80px"}
+<p align="center">
+  <img src="https://www.portfoliostore99.in/portfoliostore99.ico" alt="PortfolioStore 99" width="100" />
+</p>
 
----
+<h3 align="center">Portfolio Templates for Developers & Creators</h3>
 
-## Empowering Creators with Ready‑Made Portfolio Templates
+<p align="center">
+  A collection of modern, responsive, and customizable portfolio templates built for developers, designers, and creative professionals.
+</p>
 
-PortfolioStore99 offers a curated collection of high‑quality, production‑ready portfolio templates built with modern web technologies (Next.js, Tailwind CSS, React). Each template is a full‑stack, responsive website that you can deploy instantly.
-
----
-
-## Featured Templates
-
-| Template | Description | Price |
-|---|---|---|
-| **Star** | Clean, minimalist design with smooth scroll animations. Ideal for freelancers and designers. | ₹99 |
-| **Desktop** | Rich desktop‑style experience with interactive 3‑D elements powered by Three.js. | ₹399 |
-| **Neon** | Vibrant cyber‑punk theme with dark mode support and advanced animations. | ₹199 |
-
-<!-- TODO: Add product screenshots from the promotional repo, e.g. `https://raw.githubusercontent.com/ayushcmdx/PortfolioStore99-Promotional/main/assets/star.png` -->
+<p align="center">
+  <a href="https://www.portfoliostore99.in">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio-store-sigma.vercel.app">Live Demo</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ayushcmdx/PortfolioStore">Repository</a>
+</p>
 
 ---
 
-## Why Choose PortfolioStore99?
+## About
 
-- **One‑time pricing** – No recurring fees.
-- **Fully editable source code** – Customize every component.
-- **Fast, SEO‑friendly performance** – Built on Next.js App Router.
-- **Responsive & cross‑browser** – Looks great on mobile, tablet, and desktop.
+PortfolioStore 99 is a digital storefront for discovering and exploring ready-made portfolio website templates.
+
+The platform brings together creative designs, interactive experiences, and modern web technologies to help developers and designers build their online presence.
+
+Each template provides a unique design experience with responsive layouts, customizable components, and dedicated live previews.
+
+## Features
+
+- Modern and responsive portfolio templates
+- Interactive live previews
+- Multiple creative design styles
+- Customizable website layouts
+- Modern frontend technologies
+- Secure digital product delivery
+- Dark and light theme support
+
+## Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,postgresql,vercel" alt="Technology Stack" />
+</p>
+
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Database:** Neon PostgreSQL
+- **Payments:** Razorpay
+- **Email:** Resend
+- **Deployment:** Vercel
+
+## Explore
+
+<p align="center">
+  <a href="https://www.portfoliostore99.in">
+    <strong>Visit PortfolioStore 99</strong>
+  </a>
+</p>
+
+<p align="center">
+  Discover portfolio templates, explore live previews, and find a design that fits your creative vision.
+</p>
 
 ---
 
-## Get Started
+<p align="center">
+  Built for developers, designers, and creators.
+</p>
 
-Visit the live store: [https://www.portfoliostore99.in](https://www.portfoliostore99.in)
-
-Explore the source code: [PortfolioStore99 GitHub Repository](https://github.com/ayushcmdx/PortfolioStore99)
-
----
-
-© 2024 PortfolioStore99 – All rights reserved.
+<p align="center">
+  © PortfolioStore 99
+</p>
