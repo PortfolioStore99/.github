@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://www.portfoliostore99.in">Website</a>
+  &nbsp;
+  <a </a>
   &nbsp;·&nbsp;
-  <a href="https://www.portfoliostore99.in/">Live Demo</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ayushcmdx/PortfolioStore">Repository</a>
+  <a href="https://github.com/PortfolioStore99/PortfolioStore99-Promotional">Promotional</a>
 </p>
 
 ---
