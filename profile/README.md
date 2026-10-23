@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.portfoliostore99.in">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://portfolio-store-sigma.vercel.app">Live Demo</a>
+  <a href="https://www.portfoliostore99.in/">Live Demo</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/ayushcmdx/PortfolioStore">Repository</a>
 </p>
